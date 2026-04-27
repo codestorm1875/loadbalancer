@@ -1,5 +1,3 @@
-# Go Load Balancer
-
 A production-style HTTP load balancer in Go with strategy switching, health checks, metrics, and integrated request rate limiting.
 
 Current stable version: `v1.0.0`
