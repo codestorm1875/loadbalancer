@@ -30,7 +30,7 @@ flowchart LR
   HC --> B
   HC --> N
   LB --> M[Metrics Registry]
-  M --> P[/metrics]
+  M --> P["/metrics"]
 ```
 
 Request path summary:
