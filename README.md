@@ -109,7 +109,7 @@ go test -run TestIntegrationFailoverAndRecovery ./internal/lb
 - `lb_backend_requests_total{name="..."}`
 - `lb_backend_errors_total{name="..."}`
 
-## Portfolio Story
+## Design Decisions and Tradeoffs
 
 This project demonstrates a layered architecture:
 
